@@ -22,10 +22,11 @@ A simple to-do list app built with React.
 ## Running it locally
 
 npm install
+
 npm start
 
 Then open http://localhost:3000
 
 ## Notes
 
-Tasks and theme are stored in localStorage 
+Tasks and theme are stored in localStorage.
